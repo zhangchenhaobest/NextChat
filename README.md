@@ -1,3 +1,29 @@
+# NextChat
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+零配置 AI 聊天助手，无需 API Key 即可使用 GPT-5、Claude 4、Gemini 2.5、DeepSeek 等 100+ 模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <a href='https://nextchat.club'>
